@@ -17,7 +17,8 @@
 */
 class heap {
 private:
-	std::vector; <int> buffer;
+	std::vector; 
+	int buffer;
 public:
 
 	/*
@@ -74,3 +75,5 @@ public:
 	*/
 	void print();
 };
+
+#endif
